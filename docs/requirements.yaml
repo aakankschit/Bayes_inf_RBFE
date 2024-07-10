@@ -1,0 +1,16 @@
+name: docs_bayes_inf_rbfe
+channels:
+
+  - defaults
+dependencies:
+    # Base depends
+  - python
+  - pip
+  
+
+
+
+    # Pip-only installs
+  - pip:
+    - -e ../
+
