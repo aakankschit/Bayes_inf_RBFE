@@ -5,7 +5,7 @@ bayes_inf_rbfe
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bayes_inf_rbfe/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bayes_inf_rbfe/branch/main)
 
 
-A Bayesian Inferneence workflow to estimate corrected absolute binding free energies from relative binding free energy.
+A Bayesian Inferneence workflow to estimate corrected absolute binding free energies from relative binding free energies.
 
 ### Copyright
 
