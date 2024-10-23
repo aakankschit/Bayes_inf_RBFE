@@ -1,11 +1,11 @@
 bayes_inf_rbfe
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/bayes_inf_rbfe/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/bayes_inf_rbfe/actions?query=workflow%3ACI)
+[![GitHub Actions Build Status](https://github.com/aakankschit/bayes_inf_rbfe/workflows/CI/badge.svg)](https://github.com/aakankschit/bayes_inf_rbfe/actions?query=workflow%3ACI)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bayes_inf_rbfe/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/bayes_inf_rbfe/branch/main)
 
 
-A Bayesian Inferneence workflow to estimate corrected absolute binding free energies from relative binding free energy.
+A Bayesian Inferneence workflow to estimate corrected absolute binding free energies from relative binding free energies.
 
 ### Copyright
 
